@@ -4,9 +4,8 @@
 
 Temp/
 Library/
-Assets/Standard\ Assets
-Assets/Standard\ Assets.meta
-Assets/Editor
+Assets/Standard\ Assets*
+Assets/Editor*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
